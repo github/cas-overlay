@@ -1,0 +1,6 @@
+<Context docBase="$CAS_HOME$/target/cas.war"
+         privileged="true"
+         antiResourceLocking="false"
+         antiJARLocking="false"
+         unpackWAR="false"
+         swallowOutput="true" />
