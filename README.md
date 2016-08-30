@@ -3,7 +3,7 @@ cas-overlay
 
 This overlay configures Jasig CAS v4.0.0 for use with a LDAP server. Intended to test against Enterprise accounts.
 
-Currently, this overlay is configured for LDAP Direct Bind. For configuration against an authenticated search or AD search, please refer to https://jasig.github.io/cas/4.0.0/installation/LDAP-Authentication.html to configure an alternate configuration manager.
+Currently, this overlay is configured for LDAP Direct Bind. For configuration against an authenticated search or AD search, please refer to https://apereo.github.io/cas/4.2.x/installation/LDAP-Authentication.html to configure an alternate configuration manager.
 
 # Versions
 ```xml
